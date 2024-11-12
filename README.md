@@ -1,32 +1,24 @@
-<h1 align="center">Hi 👋, I'm Affan Shaikh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<img align="right" alt="Coding" width="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKEXKq-y7kOb0FBinG6_dkwhcTKoEQRk-pw8XsY1JoCaTx5cQ1ljq6FEE1WvBSfGmJC3w&usqp=CAU">
-
-<br>
-- 🌱 I’m currently learning **JS, Tailwind CSS**
-
-- 👨‍💻 All of my projects are available at [https://mohdaffan.netlify.app/](https://mohdaffan.netlify.app/)
-
-- 💬 Ask me about **SQL, C**
-
-- 📫 How to reach me **affanshaikh376@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=affanshaikh-dev&label=Profile%20views&color=0e75b6&style=flat" alt="affanshaikh-dev" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affanshaikh-dev" alt="affanshaikh-dev" /></a> </p>
+# 💫 About Me:
+🌱 I’m currently learning JS, Tailwind CSS<br>👨‍💻 All of my projects are available at https://mohdaffan.netlify.app/<br>💬 Ask me about SQL, C<br>📫 How to reach me affanshaikh376@gmail.com<br>⚡ Fun fact I am Funny
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shaikh-affan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh-affan" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/affan-shaikh) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=affanshaikh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=affanshaikh-dev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=affanshaikh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=affanshaikh-dev&show_icons=true&locale=en&layout=compact" alt="affanshaikh-dev" /></p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=affanshaikh-dev&" alt="affanshaikh-dev" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=affanshaikh-dev&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=affanshaikh-dev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
