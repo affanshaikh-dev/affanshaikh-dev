@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **JS, Tailwind CSS**<br>👨‍💻 All of my projects are available at **https://mohdaffan.netlify.app/**<br>💬 Ask me about **SQL, C**<br>📫 How to reach me **affanshaikh376@gmail.com**<br>⚡ Fun fact **I am Funny**
+🌱 I’m currently learning **JS, Tailwind CSS**<br>👨‍💻 All of my projects are available at **https://mohdaffan.netlify.app/**<br>📫 How to reach me **affanshaikh376@gmail.com**<br>⚡ Fun fact **I am Funny**
 
 
 ## 🌐 Socials:
