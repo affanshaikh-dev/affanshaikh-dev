@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-affan-34569a321/) [![Behance](https://img.shields.io/badge/Behance-%231766FF.svg?logo=Behance&logoColor=white)](https://www.behance.net/dategashaikh/) [![X](https://img.shields.io/badge/X-1DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/shaikhaffan5133)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shaikh-affan-34569a321/) [![Behance](https://img.shields.io/badge/Behance-%231766FF.svg?logo=Behance&logoColor=white)](https://www.behance.net/dategashaikh/) [![X](https://img.shields.io/badge/X-1DA1F2.svg?logo=twitter&logoColor=black)](https://x.com/shaikhaffan5133)
 
 
 
