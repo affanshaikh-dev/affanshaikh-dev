@@ -29,9 +29,12 @@ I am a creative developer and designer focused on building clean, functional, an
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=affanshaikh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=affanshaikh-dev&show_icons=true&theme=dark&hide_border=false" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=affanshaikh-dev&layout=compact&theme=dark&hide_border=false" width="300" alt="Top Languages" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=affanshaikh-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<br/>
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=affanshaikh-dev&theme=dark&hide_border=false)
 
@@ -39,5 +42,7 @@ I am a creative developer and designer focused on building clean, functional, an
 
 ### ✍️ Random Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<br/>
 
 ![Visit Count](https://visitcount.itsvg.in/api?id=affanshaikh-dev&icon=0&color=0)
